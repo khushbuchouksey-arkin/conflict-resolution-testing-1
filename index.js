@@ -1,4 +1,1 @@
-let a = [
-    "Alpha", "b",
-    "c"
-]
+let a = ["Alpha", "b", "c"];
